@@ -1,0 +1,11 @@
+a {
+    color: white;
+    font-family: sans-serif;
+    font-size:20px;
+}
+body {
+    background: white url("images/background.gif") ;
+    font-family: sans-serif;
+    font-size:20px;
+    color: white
+}
